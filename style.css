@@ -18,7 +18,7 @@ body {
     display: inline;
     font-size: 18px;
     color: #00ffff;
-    font-family: 'Work Sans';
+    font-family: 'Work Sans', serif;
 }
 
 .instructions-row {
@@ -28,7 +28,7 @@ body {
 
 .instructions-number {
     padding-right: 25px;
-    font-family: 'Work Sans';
+    font-family: 'Work Sans', serif;
     font-size: 36px;
     color: #00ffff;
 }
@@ -36,7 +36,7 @@ body {
 .instructions-text {
 
     padding: 10px;
-    font-family: 'Work Sans';
+    font-family: 'Work Sans', serif;
     font-size: 14px;
     color: #ffffff;
 
@@ -52,15 +52,14 @@ body {
 }
 
 .start-row {
-    margin: auto;
     width: 120px;
     height: 43px;
-    font-family: 'Work Sans';
+    font-family: 'Work Sans', serif;
     background-color: #eb6536;
     padding-top: 18px;
     font-size: 18px;
     text-align: center;
     color: #010165;
-    margin-bottom: 21px;
+    margin: 0 auto 21px;
     cursor: pointer;
 }
